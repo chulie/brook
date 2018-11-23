@@ -12,5 +12,8 @@
     "discord.js": "^11.4.2",
     "moment": "^2.22.2"
   },
+    "engines": {
+    "node": "10.x"
+  },
   "devDependencies": {}
 }
