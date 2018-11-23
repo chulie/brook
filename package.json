@@ -4,7 +4,8 @@
   "description": "it's aliiive hoho !",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "krow",
   "license": "ISC",
@@ -12,8 +13,8 @@
     "discord.js": "^11.4.2",
     "moment": "^2.22.2"
   },
-    "engines": {
+  "engines": {
     "node": "10.x"
   },
-  "devDependencies": {}
+"devDependencies": {}
 }
